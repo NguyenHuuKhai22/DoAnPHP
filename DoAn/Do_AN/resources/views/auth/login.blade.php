@@ -7,7 +7,7 @@
     <form id="login-form">
         @csrf
         <input type="email" name="email" id="email" placeholder="Email" class="w-full border p-2 mb-2">
-        <input type="password" name="password" id="password" placeholder="Mật khẩu" class="w-full border p-2 mb-2">
+        <input type="password" name="password" id="mat_khau" placeholder="Mật khẩu" class="w-full border p-2 mb-2">
         <button type="submit" class="w-full bg-blue-500 text-white py-2">Đăng Nhập</button>
     </form>
 </div>

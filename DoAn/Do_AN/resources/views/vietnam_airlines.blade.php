@@ -22,7 +22,9 @@
 
         <section class="bg-teal-700 py-4">
             <div class="container mx-auto flex justify-center space-x-4">
-                <button class="bg-teal-800 text-white py-2 px-4 rounded">MUA VÉ</button>
+                <a href="http://127.0.0.1:8000/search" class="inline-block bg-teal-800 text-white py-2 px-4 rounded hover:bg-teal-900 transition-colors">
+                    MUA VÉ
+                </a>
                 <button class="bg-teal-800 text-white py-2 px-4 rounded">QUẢN LÝ ĐẶT CHỖ</button>
                 <button class="bg-teal-800 text-white py-2 px-4 rounded">LÀM THỦ TỤC</button>
             </div>
